@@ -1,6 +1,6 @@
 # fluttererer
 
-A new Flutter project.
+A new Flutter project. Used to get an understanding of the world of Flutter.
 
 ## Getting Started
 
